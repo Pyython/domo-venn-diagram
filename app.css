@@ -5,31 +5,9 @@ body{
 
 .pane p {
   font-size: 1.8em;
-  margin-bottom: 20px;
-  margin-top: 20px;
 }
 #pane1 {
-  height: 100%;
-  width: 80%;
-  margin: 50px auto;
-}
-#logoPane {
-  width: 100%;
-  float: none;
-  margin-top: 20px;
-  margin-left: 0;
-}
-#logoPane img {
-  display: block;
-  margin: 0 auto;
-}
-.tick text {
-  font-size: 12px;
-}
-.c3-chart-arcs-title {
-  font-size: 20px;
-  fill: #808080;
-  font-weight: 300;
+  margin: auto;
 }
 .venntooltip {
   position: absolute;
