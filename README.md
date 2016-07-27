@@ -1,5 +1,5 @@
 # Domo Venn Diagram
-![Venn Diagram](http://imgur.com/6BdViwF)
+![Venn Diagram](http://i.imgur.com/6BdViwF.png)
 
 Venn Diagram for Domo BI tool.
 
