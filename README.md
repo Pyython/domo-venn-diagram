@@ -39,7 +39,7 @@ To publish the visualization to your Domo instance, run:
 domo publish
 ```
 
-You can then find the app in the 'Asset Library' and begin to build cards to analyze your conversion paths.
+You can then find the app in the 'Asset Library' and begin to build cards to analyze overlaps between sets.
 
 
 ## Prerequisites
