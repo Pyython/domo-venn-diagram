@@ -1370,8 +1370,8 @@
   }
 
   function VennDiagram() {
-    var width = 695,
-      height = 540,
+    var width = 669,
+      height = 480,
       padding = 15,
       duration = 1000,
       orientation = Math.PI / 2,
