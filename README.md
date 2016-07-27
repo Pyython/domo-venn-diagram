@@ -1,4 +1,6 @@
 # Domo Venn Diagram
+![Venn Diagram](http://imgur.com/6BdViwF)
+
 Venn Diagram for Domo BI tool.
 
 ## Getting Started

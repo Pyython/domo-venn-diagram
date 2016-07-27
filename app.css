@@ -3,27 +3,6 @@ body{
   font-family: "Open Sans", sans-serif;
   padding: 13px 11px 15px 15px;
 }
-.kpicontent {
-    width: 360px;
-}
-
-.kpi_header {
-  margin-bottom: 1px;
-  font-size: 100%;
-  vertical-align: baseline;
-}
-
-.kpi_title {
-    font-size: 16px;
-    color: #333;
-    line-height: 24px;
-    font-weight: 600;
-    letter-spacing: -.5px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: block;
-}
 
 #pane1 {
   margin: auto;
